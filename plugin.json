@@ -9,8 +9,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz eBay ist in plentymarkets 7 bereits integriert. Um Etsy in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei eBay nötig.",
-    "en": "eBay is already integrated into your plentymarkets 7 system. An eBay seller account is mandatory for setting up eBay in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes eBay wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf eBay zu listen. Die Schnittstelle zu eBay ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace eBay enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on eBay. The interface to eBay is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
