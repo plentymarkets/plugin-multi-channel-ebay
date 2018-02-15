@@ -1,0 +1,7 @@
+# eBay
+
+<div class="container-toc"></div>
+
+eBay Inc. (NASDAQ: EBAY) is a globally leading company in the sector of trade. Millions of shoppers and sellers all over the world are connected by the company’s platforms eBay, StubHub, and eBay Classifieds, which create economical opportunities for everyone. eBay was founded in San Jose, California, in 1995, and has since then become one of the biggest and most vibrant marketplaces, offering a wide and unique range of products. In 2015, products amounting to 82 billion US-dollars were traded at the eBay marketplace.
+
+With 157 million active shoppers, eBay is one of the world’s largest online marketplaces and connects people with the things they need and like – anytime and anywhere. The global eBay-marketplace contains more than 800 million items, offered by private and commercial sellers. Most of the items are new goods which are are sold at fixed prices. eBay provides mobile apps in 190 countries, providing easy access to products offered by both regional retailers and sellers from all over the world. With eBay Fashion and eBay Motors, eBay has created product categories to suit individual shopping needs. eBay enables sellers to offer their products to shoppers around the world via a multitude of channels – online, mobile, and stationary.
