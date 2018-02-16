@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "name": "eBay",
   "marketplaceName": "eBay",
-  "description": "Um eBay in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei eBay nötig.",
+  "description": "Über die Anbindung des Online-Marktplatzes eBay wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf eBay zu listen.",
   "namespace": "MultiChannelEbay",
   "pluginIcon": "icon_plugin_xs.png",
   "author": "plentymarkets GmbH",
