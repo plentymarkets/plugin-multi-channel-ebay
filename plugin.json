@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "eBay",
   "marketplaceName": "eBay",
   "description": "Über die Anbindung des Online-Marktplatzes eBay wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf eBay zu listen.",
