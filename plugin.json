@@ -1,16 +1,16 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "eBay",
   "marketplaceName": "eBay",
-  "description": "Über die Anbindung des Online-Marktplatzes eBay wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf eBay zu listen.",
+  "description": "Über die Anbindung des Online-Marktplatzes eBay wird der automatische Austausch von Artikel- und Auftragsdaten mit PlentyONE ermöglicht, um Artikel auf eBay zu listen.",
   "namespace": "MultiChannelEbay",
   "pluginIcon": "icon_plugin_xs.png",
-  "author": "plentymarkets GmbH",
-  "email": "support@plentymarkets.eu",
+  "author": "PlentyONE GmbH",
+  "email": "https://www.plentyone.com/de/support-center",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Über die Anbindung des Online-Marktplatzes eBay wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf eBay zu listen. Die Schnittstelle zu eBay ist in plentymarkets 7 bereits integriert.",
-    "en": "The integration of the online marketplace eBay enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on eBay. The interface to eBay is already integrated into plentymarkets 7."
+    "de": "Über die Anbindung des Online-Marktplatzes eBay wird der automatische Austausch von Artikel- und Auftragsdaten mit PlentyONE ermöglicht, um Artikel auf eBay zu listen. Die Schnittstelle zu eBay ist in PlentyONE bereits integriert.",
+    "en": "The integration of the online marketplace eBay enables an automatic exchange of item- and order data with PlentyONE, allowing to list items on eBay. The interface to eBay is already integrated into PlentyONE."
   },
   "license": "AGPL-3.0",
   "categories": [
