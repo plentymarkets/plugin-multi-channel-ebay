@@ -1,22 +1,22 @@
 ![plentymarkets Logo](http://www.plentymarkets.eu/layout/pm/images/logo/plentymarkets-logo.jpg)
 
-# eBay plugin for plentymarkets 7.x
+# eBay plugin for PlentyONE
 
-This is the eBay plugin developed by plentymarkets. eBay is already integrated in your plentymarkets 7 system.
+This is the eBay plugin developed by PlentyONE. eBay is already integrated in PlentyONE.
 
 ## Requirements
 
-This is a plugin for [plentymarkets 7](https://www.plentymarkets.com).
+This is a plugin for [PlentyONE](https://www.plentyone.com/).
 
 ## Installing
 
-For detailed information about plugin provisioning refer to [plentymarkets developers](https://developers.plentymarkets.com/dev-doc/basics#plugin-provisioning).
+For detailed information about plugin provisioning refer to [PlentyONE developers](https://developers.plentymarkets.com/dev-doc/basics#plugin-provisioning).
 
 ## Plugin documentation
 
-- Learn how to create your [first plentymarkets plugin](https://developers.plentymarkets.com/tutorials/helloworld)
-- Overview of plentymarkets [plugin interfaces](https://developers.plentymarkets.com/dev-doc/basics#guide-interface)
-- The plentymarkets [REST API](https://developers.plentymarkets.com/rest-doc/introduction)
+- Learn how to create your [first PlentyONE plugin](https://developers.plentymarkets.com/tutorials/helloworld)
+- Overview of PlentyONE [plugin interfaces](https://developers.plentymarkets.com/dev-doc/basics#guide-interface)
+- The PlentyONE [REST API]( https://developers.plentymarkets.com/en-gb/plentymarkets-rest-api/index.html)
 
 ## Join our community
 
@@ -29,4 +29,3 @@ Visit our forum and find the latest news and updates in our [Changelog](https://
 ## License
 
 This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE - see the [LICENSE.md](/LICENSE.md) file for details.
-
